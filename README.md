@@ -1,1 +1,1 @@
-# Asteroid-Collision-Micro-bit
+# Asteroid-Collision-Microbit
